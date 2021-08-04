@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlaecheBerechnen", "FlaecheBerechnen\FlaecheBerechnen.csproj", "{8762BE9A-7348-4972-889E-62AB8D358664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8762BE9A-7348-4972-889E-62AB8D358664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8762BE9A-7348-4972-889E-62AB8D358664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8762BE9A-7348-4972-889E-62AB8D358664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8762BE9A-7348-4972-889E-62AB8D358664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDEE7A07-2BFF-4AAC-A17F-B0744E8A8771}
+	EndGlobalSection
+EndGlobal
